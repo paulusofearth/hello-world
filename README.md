@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-My first git
+Hi! I'm Mike Paulus Lugtu
+And this is my first git
